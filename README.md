@@ -24,23 +24,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 2. You will find all the components used and you can edit your information accordingly.
 
-# Deploy with Github Pages
-
-1. Name your fork `<your-github-username>.github.io`
-2. Edit the `homepage` property on your `package.json` file
-
-      `"homepage": "http://<your-github-username>.github.io/"`
-
-
-3. Deploy the app
-
-   `npm run deploy`
-
-## Contribute
-
-Pull Requests are welcome :)
 
 ## Show your support
- credits - salesp07 :)
+ credits - [salesp07](https://github.com/salesp07):)
 
 Give a ⭐ if you like this website!
